@@ -1,0 +1,1 @@
+# disable_screen_shot_ios
